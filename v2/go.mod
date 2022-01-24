@@ -1,4 +1,4 @@
-module github.com/evanoberholster/timezoneLookup/v2
+module github.com/elcamino/timezoneLookup/v2
 
 go 1.16
 
