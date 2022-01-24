@@ -8,7 +8,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/elcamino/timezoneLookup/geoi/v2"
+	"github.com/elcamino/timezoneLookup/geo/v2"
 	"golang.org/x/sys/unix"
 )
 
