@@ -3,7 +3,7 @@ package geo
 // Obtained from https://github.com/tidwall/geoindex on Jan 10, 2021
 // License Josh Backer (tidwall)
 
-// Changes by Evan Oberholster (elcamino)
+// Changes by Evan Oberholster (evanoberholster)
 
 import (
 	"math"

@@ -12,7 +12,7 @@ import (
 	"syscall"
 	"time"
 
-	timezone "github.com/elcamino/timezoneLookup"
+	timezone "github.com/elcamino/timezoneLookupi/v2"
 )
 
 var (
